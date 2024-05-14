@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.uno{
+    background-color: blue;
+    height: 25%;
+    width: 15%;
+    position: absolute;
+
+}
+
+
+.dos{
+    background-color:blue;
+   height: 25%;
+    width: 15%;
+    position: absolute;
+    right: 60%;
+
+}
+
+.tres{
+
+    background-color: blue;
+   height: 25%;
+    width: 15%;
+    position: absolute;
+    top: 40%;
+}
+
+.cuatro{
+    background-color:blue;
+   height: 25%;
+    width: 15%;
+position: absolute;
+right: 60%;
+top: 40%;
+}
+
+.cinco{
+    background-color:blue;
+   height: 15%;
+    width: 60%;
+    position: absolute;
+    right: 0;
+}
+
+.seis{
+    background-color: blue;
+height: 15%;
+width: 60%;
+position: absolute;
+right: 0;
+bottom: 35%;
+}
+
+.siete{
+    background-color:blue;
+   height: 15%;
+    width: 60%;
+    position: absolute;
+    right: 0;
+    bottom: 60%;
+}
+
+.ocho{
+    background-color: blue;
+   height: 9%;
+    width: 100%;
+position: absolute;
+bottom: 18%;
+}
+
+.nueve{
+    background-color:blue;
+height: 9%;
+width: 100%;
+position: absolute;
+bottom: 0.1%;
+}
